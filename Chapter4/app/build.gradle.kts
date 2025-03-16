@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.chapater2"
-    compileSdk = 34
+    namespace = "com.example.chapter4"
+    compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.chapater2"
+        applicationId = "com.example.chapter4"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
@@ -33,11 +33,9 @@ android {
     kotlinOptions {
         jvmTarget = "11"
     }
-
     buildFeatures{
         viewBinding = true
     }
-
 }
 
 dependencies {

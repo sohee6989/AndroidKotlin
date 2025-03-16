@@ -9,8 +9,8 @@
         <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/../../../../../../소희/공부/안드로이드/클론코딩/AndroidKotlin/Chapter3" />
-            <option value="$PROJECT_DIR$/../../../../../../소희/공부/안드로이드/클론코딩/AndroidKotlin/Chapter3/app" />
+            <option value="$PROJECT_DIR$/../../../../../../소희/공부/안드로이드/클론코딩/AndroidKotlin/Chapter4" />
+            <option value="$PROJECT_DIR$/../../../../../../소희/공부/안드로이드/클론코딩/AndroidKotlin/Chapter4/app" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
